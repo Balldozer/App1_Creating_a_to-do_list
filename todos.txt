@@ -6,3 +6,6 @@ Go to the banker
 Fix a bug
 Take a nap
 Improve the code
+test te program
+test the capitalizer
+Test the capitalizer again
